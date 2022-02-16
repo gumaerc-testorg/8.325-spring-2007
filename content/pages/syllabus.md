@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ec807d2d-7b66-9ee5-8102-22d6d3d247e8
 ---
@@ -58,11 +60,11 @@ Standard model Higgs production and decay. Parton distribution functions and dee
 
 ### 6\. Anomalies
 
-Global anomalies, triangle diagrams, symmetries of the path-integral. Anomalies in chiral gauge theory. Index theorem and zero-modes. π0 → γγ.
+Global anomalies, triangle diagrams, symmetries of the path-integral. Anomalies in chiral gauge theory. Index theorem and zero-modes. π{{< sup "0" >}} → γγ.
 
 ### 7\. Topological Sectors in Gauge Theory and Instantons
 
-Large gauge transformations,θ-vacuua, Instantons and U(1)A breaking.
+Large gauge transformations,θ-vacuua, Instantons and U(1){{< sub "A" >}} breaking.
 
 ### 8\. Confinement and Lattice QCD
 
