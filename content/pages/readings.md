@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the required textbook, recommended
+  textbooks and references, and readings associated with lecture sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -221,9 +223,9 @@ Donoghue, II-4.
 
 Cheng and Li, 11.3.
 
-Two Particle Data Goup articles on CP-violation: CP (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdg.lbl.gov/2006/reviews/cpviolrpp.pdf)) and CKM (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdg.lbl.gov/2006/reviews/kmmixrpp.pdf))
+Two Particle Data Goup articles on CP-violation: CP ([PDF](http://pdg.lbl.gov/2006/reviews/cpviolrpp.pdf)) and CKM ([PDF](http://pdg.lbl.gov/2006/reviews/kmmixrpp.pdf))
 
-For those wanting additional reading on CP violation see ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[the Babar Physics Book (PDF - 12.8MB)](http://www.slac.stanford.edu/pubs/slacreports/reports19/slac-r-504.pdf) and this [review](http://de.arxiv.org/abs/hep-ph/0302031). For those looking for additional reading on heavy-quark symmetry, see the book by Manohar and Wise, "_Heavy Quark Physics_".
+For those wanting additional reading on CP violation see [the Babar Physics Book (PDF - 12.8MB)](http://www.slac.stanford.edu/pubs/slacreports/reports19/slac-r-504.pdf) and this [review](http://de.arxiv.org/abs/hep-ph/0302031). For those looking for additional reading on heavy-quark symmetry, see the book by Manohar and Wise, "_Heavy Quark Physics_".
 
 
 {{< tdclose >}}
@@ -239,7 +241,7 @@ Neutrino readings, anomalies in the Schwinger model
 {{< tdopen >}}
 
 
-[Review by Langacker, et al](http://de.arxiv.org/abs/hep-ph/0506257)., and a PDG article (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 18.3 MB](http://pdg.lbl.gov/2006/reviews/numixrpp.pdf))
+[Review by Langacker, et al](http://de.arxiv.org/abs/hep-ph/0506257)., and a PDG article ([PDF - 18.3 MB](http://pdg.lbl.gov/2006/reviews/numixrpp.pdf))
 
 Peskin, 19.1.
 
