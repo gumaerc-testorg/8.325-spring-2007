@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fcb81a42-5863-4cfc-e936-6ec094540c2d
 ---
@@ -24,7 +28,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/homework1))
+Assignment 1 ({{% resource_link 08324c26-404b-77e0-743d-25511a25505b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/homework1))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/homework2))
+Assignment 2 ({{% resource_link e828d2b9-4d08-889f-162c-48eadb687f4f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Assignment 2 ([PDF]({{< baseurl >}}/resources/homework2))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/homework3))
+Assignment 3 ({{% resource_link 460f13de-23a5-ae84-9d41-bb1474b8699f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/homework3))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 4 ([PDF]({{< baseurl >}}/resources/homework4))
+Assignment 4 ({{% resource_link 7d195f3b-0b11-337f-cd3e-60be038050d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Assignment 4 ([PDF]({{< baseurl >}}/resources/homework4))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 5 ([PDF]({{< baseurl >}}/resources/homework5))
+Assignment 5 ({{% resource_link 0c0e1d2c-ddfa-2a7a-d273-388fbeab9ba6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Assignment 5 ([PDF]({{< baseurl >}}/resources/homework5))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 6 ([PDF]({{< baseurl >}}/resources/homework6))
+Assignment 6 ({{% resource_link 1d3ff652-121f-505c-bcfc-b0795997d4c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Assignment 6 ([PDF]({{< baseurl >}}/resources/homework6))
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 7 ([PDF]({{< baseurl >}}/resources/homework7))
+Assignment 7 ({{% resource_link 0836842e-8128-f3c4-4915-edaa95c65bcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
