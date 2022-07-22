@@ -6,6 +6,7 @@ file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/08324c264
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework1.pdf
 uid: 08324c26-404b-77e0-743d-25511a25505b
 ---
 Homework assignment with questions: Practice with Local and Global Symmetry, Practice with Fadeev-Popov in QCD and QED, and Positronium Decay.
-
