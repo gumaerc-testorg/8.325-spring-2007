@@ -3,6 +3,7 @@ content_type: resource
 description: 'Homework assignment with questions: Some algebra used to study ?-vacua
   and instantons, Scalar production, and Deep inelastic scattering from a photon.'
 file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/0836842e8128f3c44915edaa95c65bcb_homework7.pdf
+file_size: 39127
 file_type: application/pdf
 learning_resource_types:
 - Assignments
