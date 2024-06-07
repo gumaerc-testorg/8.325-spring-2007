@@ -5,6 +5,7 @@ description: 'Homework assignment with questions: Peskin & Schroeder 20.1 (Spont
   (A Model with Two Higgs), and Peskin & Schroeder pg.775, (Final Project on Higgs
   Decay).'
 file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/7d195f3b0b11337fcd3e60be038050d1_homework4.pdf
+file_size: 42713
 file_type: application/pdf
 learning_resource_types:
 - Assignments
