@@ -3,7 +3,7 @@ content_type: resource
 description: 'Homework assignment with questions: MS beta-function with multiple dimensionful
   couplings, Scheme and gauge dependence of beta-functions, QCD beta-function in background
   field gauge, and The QCD running coupling and thresholds.'
-file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/e828d2b94d08889f162c48eadb687f4f_homework2.pdf
+file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/e828d2b94d08889f162c48eadb687f4f_homework2.pdf
 file_size: 95267
 file_type: application/pdf
 learning_resource_types:
