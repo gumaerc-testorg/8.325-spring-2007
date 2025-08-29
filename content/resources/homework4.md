@@ -4,7 +4,7 @@ description: 'Homework assignment with questions: Peskin & Schroeder 20.1 (Spont
   Breaking of SU(5)), Peskin & Schroeder 20.2(b) (Z-Decays), Peskin & Schroeder 20.5
   (A Model with Two Higgs), and Peskin & Schroeder pg.775, (Final Project on Higgs
   Decay).'
-file: /courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/7d195f3b0b11337fcd3e60be038050d1_homework4.pdf
+file: /ol-ocw-studio-app/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/7d195f3b0b11337fcd3e60be038050d1_homework4.pdf
 file_size: 42713
 file_type: application/pdf
 learning_resource_types:
