@@ -29,7 +29,7 @@ Your grade will be based on problem sets to be given out roughly every 2 weeks. 
 
 The required textbook is:
 
-Peskin, Michael E., and Daniel V. Schroeder. _An Introduction to Quantum Field Theory (Frontiers in Physics)_. New York, NY: HarperCollins Publishers, 1995. ISBN: 9780201503975. (Corrections page: [_An Introduction to Quantum Field Theory_](http://www.slac.stanford.edu/~mpeskin/QFT.html).)
+Peskin, Michael E., and Daniel V. Schroeder. _An Introduction to Quantum Field Theory (Frontiers in Physics)_. New York, NY: HarperCollins Publishers, 1995. ISBN: 9780201503975. (Corrections page: {{% resource_link "342119dd-8e16-4827-ab1d-b754c9806e51" "_An Introduction to Quantum Field Theory_" %}}.)
 
 Please see the {{% resource_link ed6c27f2-3400-fca8-57f8-33a9b3c28471 "readings" %}} page for other recommended texts.
 
