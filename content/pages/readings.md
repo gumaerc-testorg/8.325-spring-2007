@@ -12,7 +12,7 @@ uid: ed6c27f2-3400-fca8-57f8-33a9b3c28471
 Required Textbook
 -----------------
 
-Peskin, Michael E., and Daniel V. Schroeder. An Introduction to Quantum Field Theory (Frontiers in Physics). New York, NY: HarperCollins Publishers, 1995. ISBN: 9780201503975. (Corrections page: {{% resource_link "342119dd-8e16-4827-ab1d-b754c9806e51" "_An Introduction to Quantum Field Theory_" %}}.)
+Peskin, Michael E., and Daniel V. Schroeder. An Introduction to Quantum Field Theory (Frontiers in Physics). New York, NY: HarperCollins Publishers, 1995. ISBN: 9780201503975. (Corrections page: [_An Introduction to Quantum Field Theory_](http://www.slac.stanford.edu/~mpeskin/QFT.html).)
 
 Recommended Textbooks and References
 ------------------------------------
@@ -33,7 +33,7 @@ Collins, John C. _Renormalization: An Introduction to Renormalization, the Renor
 
 Ellis, R. K., W. J. Stirling, and B. R. Webber. _QCD and Collider Physics (Cambridge Monographs on Particle Physics, Nuclear Physics, and Cosmology)._ Vol. 8. Cambridge, UK: Cambridge University Press, 1996. ISBN: 9780521581899.
 
-Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Menlo Park, CA: Benjamin/Cummings Pub. Co., 1984. ISBN: 9780805331639. ({{% resource_link "ffce5718-3798-45c5-a550-5fc1e44dcc25" "Online version" %}}.)
+Georgi, Howard. _Weak Interactions and Modern Particle Theory_. Menlo Park, CA: Benjamin/Cummings Pub. Co., 1984. ISBN: 9780805331639. ([Online version](http://www.people.fas.harvard.edu/~hgeorgi/283.html).)
 
 Coleman, Sidney. _Aspects of Symmetry: Selected Erice Lectures of Sidney Coleman_. Cambridge, UK: Cambridge University Press, 1985. ISBN: 9780521267069.
 
@@ -121,7 +121,7 @@ Continued from last week - Pokorski (above).
 
 Peskin: 16.1-16.6 (in particular 16.5 and 16.6).
 
-{{% resource_link "ba8087e8-6ad6-491a-aef1-ce1d27b92317" "A paper by Larry Abbott" %}}.
+[A paper by Larry Abbott](http://dx.doi.org/10.1016/0550-3213(81)90371-0).
 
 
 {{< tdclose >}}
@@ -141,9 +141,9 @@ Peskin, 12.1.
 
 Weinberg, 12.4.
 
-{{% resource_link "fb282f04-6ab5-4b18-8ff6-1b4ae95f8b3b" "Paper by Polchinski" %}}.
+[Paper by Polchinski](http://dx.doi.org/10.1016/0550-3213(84)90287-6).
 
-{{% resource_link "f475d92c-0b0f-432f-b107-ec338672d753" "Wilson-Kogut review" %}}.
+[Wilson-Kogut review](http://dx.doi.org/10.1016/0370-1573(74)90023-4).
 
 Review Peskin, 11.1, 11.3, and 11.6.
 
@@ -223,9 +223,9 @@ Donoghue, II-4.
 
 Cheng and Li, 11.3.
 
-Two Particle Data Goup articles on CP-violation: CP ({{% resource_link "03c57554-b74e-4247-b417-6ad8f8d7f4fb" "PDF" %}}) and CKM ({{% resource_link "9f37124c-d0ff-46ec-a94e-68e1c09b3a52" "PDF" %}})
+Two Particle Data Goup articles on CP-violation: CP ([PDF](http://pdg.lbl.gov/2006/reviews/cpviolrpp.pdf)) and CKM ([PDF](http://pdg.lbl.gov/2006/reviews/kmmixrpp.pdf))
 
-For those wanting additional reading on CP violation see {{% resource_link "8c331db9-5228-47dd-813e-f7abd0cbd12b" "the Babar Physics Book (PDF - 12.8MB)" %}} and this {{% resource_link "c83e2bce-d5c9-4176-9fb0-1532e95b522c" "review" %}}. For those looking for additional reading on heavy-quark symmetry, see the book by Manohar and Wise, "_Heavy Quark Physics_".
+For those wanting additional reading on CP violation see [the Babar Physics Book (PDF - 12.8MB)](http://www.slac.stanford.edu/pubs/slacreports/reports19/slac-r-504.pdf) and this [review](http://de.arxiv.org/abs/hep-ph/0302031). For those looking for additional reading on heavy-quark symmetry, see the book by Manohar and Wise, "_Heavy Quark Physics_".
 
 
 {{< tdclose >}}
@@ -241,7 +241,7 @@ Neutrino readings, anomalies in the Schwinger model
 {{< tdopen >}}
 
 
-{{% resource_link "fb3aced6-4fdf-4929-85c3-fc2312352525" "Review by Langacker, et al" %}}., and a PDG article ({{% resource_link "559a56f2-249d-4796-9a33-37ad98b1e1a7" "PDF - 18.3 MB" %}})
+[Review by Langacker, et al](http://de.arxiv.org/abs/hep-ph/0506257)., and a PDG article ([PDF - 18.3 MB](http://pdg.lbl.gov/2006/reviews/numixrpp.pdf))
 
 Peskin, 19.1.
 
@@ -339,15 +339,15 @@ Confinement: Original articles by 't Hooft which are reprinted in the book "_Und
 
 Also Chapter 19 of the book by Smilga.
 
-Higgs: {{% resource_link "234f2a16-4229-42d5-acbd-41cf50109b27" "TASI lectures by Reina" %}}.
+Higgs: [TASI lectures by Reina](http://de.arxiv.org/abs/hep-ph/0512377).
 
 Donoghue, p. 418.
 
-Minimal Flavor Violation: {{% resource_link "616eccd5-3816-4c03-a816-acdba9138046" "Article" %}}.
+Minimal Flavor Violation: [Article](http://de.arxiv.org/abs/hep-ph/0207036).
 
 SU(5): Cheng and Li, chapter 14.
 
-Supersymmetry: {{% resource_link "9e6b0f45-4f19-4a50-9482-0577bb12ad7a" "Review article" %}}.
+Supersymmetry: [Review article](http://de.arxiv.org/abs/hep-ph/9709356).
 
 
 {{< tdclose >}}
